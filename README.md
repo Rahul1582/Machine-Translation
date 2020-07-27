@@ -1,22 +1,20 @@
 # Machine Translation
 
-Used for getting a translated Message from One Language To another.
+Translating a text from One Language To Another.
 
 ## Methods Used
 
 1. Encoder - Decoder Architecture
 
-2. 
-
+2. Training and Inference Mode of Decoder
 
 # Technologies Used
 ```
 1. LSTM
 
-2. Sequence To Sequence Model(Enocoder Decoder)
+2. Sequence To Sequence Model(Encoder-Decoder)
 
-3. Data Preprocessing
-
+3. Data Mining
 
 ```
 
@@ -24,10 +22,13 @@ Used for getting a translated Message from One Language To another.
 
 It can be used as a translator where you will be getting the result in a new language.
 
+## Improvement
+
+We can improve the model by improving the dataset. Training with more epochs with the improved daatset.
 
 ### Author 
 ```
 Rahul Kumar Patro
-
+```
 
 
